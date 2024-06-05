@@ -1,0 +1,6 @@
+fastai
+opencv-python-headless==4.5.3.56
+pytorch-lightning
+glob2
+seaborn
+openpyxl
